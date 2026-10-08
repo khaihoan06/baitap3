@@ -1,6 +1,6 @@
-- **Họ và tên:** Nguyễn Văn A
-- **Mã số sinh viên:** 20123456
-- **Lớp:** 20DTHxx
+- **Họ và tên:** Nguyễn Khải Hoàn
+- **Mã số sinh viên:** 24810320086
+- **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình C# / Windows Forms
 - **Tên bài tập:** bài tập số 3
 
